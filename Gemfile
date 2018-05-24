@@ -7,6 +7,7 @@ end
 
 # use omniauth to authenticate user
 gem 'omniauth'
+gem 'omniauth-twitter'
 # use twitter to interact with twitter API
 gem 'twitter'
 #use devise for user setup
