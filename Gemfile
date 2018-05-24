@@ -11,6 +11,8 @@ gem 'omniauth'
 gem 'twitter'
 #use devise for user setup
 gem 'devise'
+#environment to store keys
+gem 'dotenv-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.6'
 # Use sqlite3 as the database for Active Record
